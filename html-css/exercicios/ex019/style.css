@@ -16,5 +16,21 @@ h1{
 }
 
 h2{
-    color: rgb(61, 110, 65);
+    color: rgb(45, 119, 51);
+}
+
+.basico{
+    color: rgb(45, 119, 51);
+}
+
+.intermediario{
+    color: rgb(106, 119, 45);
+}
+
+.avancado{
+    color: rgb(119, 45, 45);
+}
+
+.destaque{
+    background-color: rgba(208, 255, 0, 0.616);
 }
